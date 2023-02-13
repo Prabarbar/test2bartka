@@ -14,4 +14,7 @@ gasd
 
 jest ok
 
-ddddd
+wprowadzam na twoja prosbe
+
+
+kolejne zmiany 11 :44 bartek
