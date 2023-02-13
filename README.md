@@ -20,3 +20,5 @@ przykladowe zmiany
 asdfasd
 asdfas
 df
+
+kolejne zmiany 11 :44 bartek
