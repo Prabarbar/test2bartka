@@ -15,3 +15,8 @@ gasd
 jest ok
 
 wprowadzam na twoja prosbe
+
+przykladowe zmiany
+asdfasd
+asdfas
+df
