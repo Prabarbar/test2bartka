@@ -13,3 +13,5 @@ asdfg
 gasd
 
 jest ok
+
+wprowadzam na twoja prosbe
